@@ -1,13 +1,3 @@
-<!-- ============================================================
-  TODO before pushing: replace these placeholders with your real links
-    YOUR_LINKEDIN_URL   e.g. https://www.linkedin.com/in/your-handle
-    YOUR_EMAIL          e.g. you@example.com
-    YOUR_PORTFOLIO_URL  e.g. https://your-site.vercel.app
-    YOUR_X_HANDLE       e.g. your_handle  (without @)
-    YOUR_LEETCODE_USER  e.g. your_username
-  Delete any badge you don't want.
-============================================================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Shekhar%20Gayen&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Apps%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" alt="Shekhar Gayen banner" />
 </p>
@@ -19,11 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USER"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/shekhargayen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gayenshekhar2025@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Shekhar2001/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <img src="https://komarev.com/ghpvc/?username=Saku2025&style=for-the-badge&color=2575fc&label=Profile+Views" alt="Profile views" />
 </p>
 
@@ -216,6 +204,18 @@ class ShekharGayen:
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Saku2025/Saku2025/output/github-snake.svg" />
   </picture>
 </p>
+
+---
+
+## 📫 Let's Connect
+
+I'm **open to AI / ML / LLM Engineer roles**. Feel free to reach out!
+
+| | |
+|---|---|
+| 📧 **Email** | [gayenshekhar2025@gmail.com](mailto:gayenshekhar2025@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/shekhargayen](https://www.linkedin.com/in/shekhargayen/) |
+| 🧩 **LeetCode** | [leetcode.com/u/Shekhar2001](https://leetcode.com/u/Shekhar2001/) |
 
 ---
 
