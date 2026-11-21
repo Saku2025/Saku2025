@@ -96,6 +96,9 @@ class ShekharGayen:
         <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
       </p>
+      <p>
+        <a href="https://github.com/Saku2025/ai-commerce-agent"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🎧 <a href="https://github.com/Saku2025/spotify-support-rag-agent">Spotify Support RAG Agent</a></h3>
@@ -106,7 +109,10 @@ class ShekharGayen:
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p>🔗 <a href="https://spotify-support-rag-agent.vercel.app"><b>Live Demo</b></a></p>
+      <p>
+        <a href="https://spotify-support-rag-agent.vercel.app/frontend/"><img src="https://img.shields.io/badge/🌐_Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" /></a>
+        <a href="https://github.com/Saku2025/spotify-support-rag-agent"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -118,6 +124,9 @@ class ShekharGayen:
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
       </p>
+      <p>
+        <a href="https://github.com/Saku2025/Resume-Parser"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🍕 <a href="https://github.com/Saku2025/AI-Restaurant-Order-Management-Agent">Restaurant Order Agent</a></h3>
@@ -126,6 +135,9 @@ class ShekharGayen:
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Saku2025/AI-Restaurant-Order-Management-Agent"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
       </p>
     </td>
   </tr>
@@ -140,6 +152,9 @@ class ShekharGayen:
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
+      <p>
+        <a href="https://github.com/Saku2025/Interview-Question-Generator"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/Saku2025/civicBuddy">CivicBuddy</a></h3>
@@ -148,6 +163,11 @@ class ShekharGayen:
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Saku2025/civicBuddy/releases/latest/download/CivicBuddy.apk"><img src="https://img.shields.io/badge/📱_Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" /></a>
+        <a href="https://github.com/Saku2025/civicBuddy/releases/latest"><img src="https://img.shields.io/github/v/release/Saku2025/civicBuddy?style=for-the-badge&label=Latest&color=02569B" alt="Latest release" /></a>
+        <a href="https://github.com/Saku2025/civicBuddy"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
       </p>
     </td>
   </tr>
