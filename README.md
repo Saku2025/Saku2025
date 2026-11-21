@@ -41,10 +41,13 @@ class ShekharGayen:
 
 ## 🛠️ Tech Stack
 
-**AI / ML / LLM**
+**Generative AI / ML**
 
 <p>
+  <img src="https://img.shields.io/badge/LLMs-6A11CB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2575FC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -56,16 +59,22 @@ class ShekharGayen:
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
 </p>
 
-**Languages · Backend · Frontend · Mobile · Data · DevOps**
+**Languages · Backend · Frontend · Databases · Tools & Cloud**
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,dart&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,prisma,react,nextjs,vite,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,prisma,react,nextjs,vite,tailwind,flutter&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=flutter,supabase,postgres,docker,kubernetes,githubactions,vercel,git,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,git,github,docker,kubernetes,linux,aws,githubactions,vercel&theme=dark" />
   </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
